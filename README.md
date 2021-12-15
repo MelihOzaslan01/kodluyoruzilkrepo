@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo Denemesi
-[Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html barındırıyor.
+[Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README.md dosyası ve bir adet index.html barındırıyor.
 
 ## Instalation  
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
